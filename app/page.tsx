@@ -42,7 +42,7 @@ export default function Home() {
 
       <section className='flex  flex-col px-3'>
         <h1 className=' text-xl font-bold text-slate-500 sm:text-7xl'>Полезные материалы</h1>
-        <p className='text-slate-800 text-2xl font-normal mb-14'>
+        <p className='text-slate-800 font-normal mb-14 text-lg sm:text-2xl'>
           Собрали для вас полезные исследования схемы кормления и другие
           <br />
           материалы, которые пригодятся для лучших результатов на вашем
