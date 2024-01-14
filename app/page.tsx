@@ -41,7 +41,7 @@ export default function Home() {
       {/* <Image src='/vercel.svg' alt='Vercel Logo' className='dark:invert' width={100} height={24} priority /> */}
 
       <section className='flex  flex-col px-3'>
-        <h1 className='text-slate-500 text-7xl font-bold'>Полезные материалы</h1>
+        <h1 className=' text-xl font-bold text-slate-500 sm:text-7xl'>Полезные материалы</h1>
         <p className='text-slate-800 text-2xl font-normal mb-14'>
           Собрали для вас полезные исследования схемы кормления и другие
           <br />
